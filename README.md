@@ -1,4 +1,4 @@
-# Side_project_FED_interest_rates
+# Side Project: Unveil the Secrets to When and How 
 
 ## Overview
 Knowing when and how much the FED will raise and lower the interest rate is the focus of every market player, since it would have ripple effect on the overall financial market. This analysis aims to use the visualization techniques to reveal some findings between the interactions of various financial data and the interest rate, which I think can serve as the foundation for further analysis and even for making some predictions.
